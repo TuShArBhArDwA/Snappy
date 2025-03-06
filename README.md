@@ -75,8 +75,12 @@ VERCEL_URL=your_vercel_project_url
 - The app will be available at http://localhost:3000.
 
 2. **Sign up or log in**
+   - Use the following demo credentials to test the app:
+     ```
+     Username: _infamous25
+     Password: 12345678
+     ```
    - Start chatting with friends or create group chats.
-   - Share media files in conversations.
    
 3. **Real-Time Chatting**
    - Users can send and receive messages instantly using WebSockets.
